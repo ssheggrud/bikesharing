@@ -19,19 +19,19 @@ There are two views for the amount of time a bike was checked out. The first sho
 
 Next we looked at the overall usage by gender. The graph in the upper left we see the breakdown of trips based off the user being a pay by the ride customer or a subcriber to the bikeshare service. The breakdown shows that more men subscribe to the service than women. The chart next to it shows us the breakdown of what time of day men or women are more likely to be using the service. Once again, men have the highest usage with the bulk of usage being during peak commute times. The final chart at the bottom of this page shows us that overall more men are currently using this service.
 
-<img src="usage_by_gender.png">
+<img src="resources/usage_by_gender.png">
 
 <b>Top Starting and Ending Locations</b>
 
 The next set of charts show us the top locations for where a customer picked up the bike vs where they dropped it off. The highest concentrations appear to be in Manhanttan.
 
-<img src="top_start_end_local.png">
+<img src="resources/top_start_end_local.png">
 
 <b>Trips by Weekday per Hour</b>
 
 The final chart shows us the overall number of trips for each weekday. From this we can see that the peak hours of usage during the week are commute hours and Sunday seems to be the preferred biking day on the weekends.
 
-<img src="trips_by_wkday_hr.png">
+<img src="resources/trips_by_wkday_hr.png">
 
 The analysis above has been put into a Tableau presentation where the viewer can make changes to the filter criteria (ie: change the hours viewed for checkout time).
 
